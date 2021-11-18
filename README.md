@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bcury
-- 👀 I’m interested in Data Science and Quantum mechanics 
+- 👀 I’m interested in Data Science and Quantum Information
 
 - 💞️ I’m looking to collaborate on Machine Learning models
 

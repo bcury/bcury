@@ -3,6 +3,10 @@
 
 - 💞️ I’m looking to collaborate on Machine Learning models
 
+IBM Python for Data Science Certified
+
+
+
 
 <!---
 bcury/bcury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

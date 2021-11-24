@@ -7,6 +7,10 @@ IBM Python for Data Science Certified
 
 Data Scientist Career Track by 365 Data Science
 
+Physicist formed at UFSCar, Brazil
+
+Masters' Degree in Data Science and Big Data at F.Unica, Brazil
+
 
 
 

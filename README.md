@@ -11,7 +11,7 @@ Physicist formed at UFSCar, Brazil
 
 Masters' Degree in Data Science and Big Data at F.Unica, Brazil
 
-Currently working as Data Analyst at 4zOOm and as Service Provider - Business Intelligence at Nestlé
+Currently working at 4zOOm & Nestlé ( OrigeNes team )
 
 
 

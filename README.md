@@ -3,15 +3,17 @@
 
 - 💞️ I’m looking to collaborate on Machine Learning models
 
-IBM Python for Data Science Certified
+Python for Data Science Certified by IBM
 
 Data Scientist Career Track by 365 Data Science
 
-Physicist formed at UFSCar, Brazil
+Physicist formed at UFSCar, São Carlos/SP , Brazil
 
-Masters' Degree in Data Science and Big Data at F.Unica, Brazil
+Masters' Degree in Quantum Information and Non-Hermitian Quantum Mechanics at USP, SP, Brazil
 
-Currently working at 4zOOm & Nestlé ( OrigeNes team )
+MBA in Data Science and Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
+
+Currently working at 4zOOm & Nestlé ( OrigeNes team ) / São Paulo, Brazil
 
 
 

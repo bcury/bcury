@@ -13,7 +13,7 @@ Masters' Degree in Quantum Information and Non-Hermitian Quantum Mechanics at US
 
 PostDegree(MBA) in Data Science & Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
 
-Extesion in Quantum Computer & Machine Learning - UNICAMP, Campinas , SP, Brazil
+Extension in Quantum Computer & Machine Learning - UNICAMP, Campinas , SP, Brazil
 
 Currently working at 4zOOm & Nestlé ( OrigeNes team ) / São Paulo, Brazil
 

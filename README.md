@@ -11,9 +11,9 @@ Physicist formed at UFSCar, São Carlos/SP , Brazil
 
 Masters' Degree in Quantum Information and Non-Hermitian Quantum Mechanics at USP, SP, Brazil
 
-PostDegree in Data Science & Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
+PostDegree(MBA) in Data Science & Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
 
-MBA in Data Science & Machine Learning at Instituto BRS, Brazil
+Extesion in Quantum Computer & Machine Learning - UNICAMP, Campinas , SP, Brazil
 
 Currently working at 4zOOm & Nestlé ( OrigeNes team ) / São Paulo, Brazil
 

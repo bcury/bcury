@@ -3,9 +3,9 @@
 
 - 💞️ I’m looking to collaborate on Machine Learning models
 
-Python for Data Science Certified by IBM
+IBM Data Scince Professional Certificate
 
-Data Scientist Career Track by 365 Data Science
+Data Scientist Career Track - 365 Data Science
 
 Physicist formed at UFSCar, São Carlos/SP , Brazil
 

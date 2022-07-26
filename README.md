@@ -3,7 +3,7 @@
 
 - 💞️ I’m looking to collaborate on Machine Learning models
 
-IBM Data Scince Professional Certificate
+IBM Data Science Professional Certificate
 
 Data Scientist Career Track - 365 Data Science
 
@@ -14,7 +14,7 @@ Masters' Degree in Quantum Information and Non-Hermitian Quantum Mechanics at US
 MBA in Data Science & Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
 
 
-Currently working as Data Scientist at 4zOOm & Nestlé ( OrigeNes team ) / São Paulo, Brazil
+Currently working as Data Scientist at 4zOOm Business Solution / São Paulo, Brazil
 
 
 

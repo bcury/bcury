@@ -11,10 +11,10 @@ Physicist formed at UFSCar, São Carlos/SP , Brazil
 
 Masters' Degree in Quantum Information and Non-Hermitian Quantum Mechanics at USP, SP, Brazil
 
-MBA in Data Science & Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
+Specialization in Data Science & Big Data at Grupo Prominas - Faculdade Única, MG, Brazil
 
 
-Currently working as Data Scientist at 4zOOm Business Solution / São Paulo, Brazil
+Currently working as Data Scientist at PagoNxt | Santander / Rio Grande do Sul, Brazil
 
 
 
